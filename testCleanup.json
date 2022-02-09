@@ -15,7 +15,7 @@
   "paths": {
     "/user": {
       "get": {
-        "summary": "Details about a users",
+        "summary": "Details about a user - update from Github",
         "operationId": "listUser",
         "tags": [
           "user"
